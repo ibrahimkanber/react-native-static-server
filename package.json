@@ -80,8 +80,8 @@
   "peerDependencies": {
     "@dr.pogodin/react-native-fs": ">= 2.22.0",
     "react": "^18.3.1",
-    "react-native": "^0.76.0",
-    "react-native-windows": "^0.75.6"
+   "react-native": ">=0.75.0"
+
   },
   "workspaces": [
     "example"
